@@ -1,0 +1,8 @@
+
+ESLINT CONFIG Rockectseat
+npm i @rocketseat/eslint-config -D
+
+alterar .eslintrc.json
+"extends": ["next/core-web-vitals", "@rocketseat/eslint-config/react"]
+
+npm i prettier-plugin-tailwindcss -D
