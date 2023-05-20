@@ -6,3 +6,10 @@ alterar .eslintrc.json
 "extends": ["next/core-web-vitals", "@rocketseat/eslint-config/react"]
 
 npm i prettier-plugin-tailwindcss -D
+
+
+desafios
+  - editar memoria
+  - link para compartilhar
+  - selecionar data de memória
+  - layout responsivo
